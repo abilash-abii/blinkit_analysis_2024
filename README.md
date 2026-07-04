@@ -93,7 +93,7 @@ blinkit-grocery-sales-analysis-powerbi/
 ├── README.md
 ├── assets/
 │   └── blinkit_dashboard.png     # dashboard preview
-├── blinkit_analysis.pbix         # Power BI report  (add your file)
+├── blinkit.pbix         # Power BI report  (add your file)
 └── LICENSE
 ```
 
