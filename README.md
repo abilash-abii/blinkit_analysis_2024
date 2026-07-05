@@ -9,6 +9,9 @@
 
 ![Blinkit Dashboard](assets/blinkit_dashboard.png)
 
+### 📥 Download
+[**Power BI report (.pbix)**](blinkit.pbix) — open in Power BI Desktop to explore the dashboard interactively.
+
 ---
 
 ## 📖 Overview
