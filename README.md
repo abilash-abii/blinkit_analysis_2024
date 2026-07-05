@@ -83,9 +83,16 @@ Public "Blinkit / Grocery Sales" practice dataset. Key fields:
 
 ---
 
-## 🧰 Skills Demonstrated
+## 🧰 Skills & Tools Used
 
-`Power BI` · `DAX measures` · `Power Query (ETL)` · `Data cleaning & standardisation` · `Data modelling` · `KPI design` · `Interactive dashboard design` · `Retail / sales analytics` · `Data storytelling`
+**BI & Visualisation**
+`Power BI` · `DAX measures` · `KPI Dashboard Design` · `Interactive report design` · `Metric-switch navigation` · `Slicer / filter panels`
+
+**Data & Modelling**
+`Power Query (ETL)` · `Data cleaning & standardisation (fat-content normalisation)` · `Data modelling (star schema)`
+
+**Analytics**
+`Retail / Sales Analytics` · `Outlet & category performance analysis` · `KPI reporting (sales, ratings, item counts)` · `Data storytelling`
 
 ---
 
@@ -96,7 +103,7 @@ blinkit-grocery-sales-analysis-powerbi/
 ├── README.md
 ├── assets/
 │   └── blinkit_dashboard.png     # dashboard preview
-├── blinkit.pbix         # Power BI report  (add your file)
+├── blinkit_analysis.pbix         # Power BI report  (add your file)
 └── LICENSE
 ```
 
